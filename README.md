@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Hey%20there!%20I'm%20Harshit%20Nijhawan%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Blockchain%20Enthusiast%20%7C%20IoT%20Explorer&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Hey%20there!%20I'm%20Harshit%20Nijhawan%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20IoT%20Explorer&descAlignY=58&descAlign=50" />
 </p>
 
 ---
@@ -51,7 +51,6 @@
 ### 🏆 Achievements
 - 🥇 **FusionFest Hackathon 2025 (Web3 Track)** Participant  
 - 💎 Built **Blockchain-based Lost & Found System** using Telos & MetaMask  
-- 🌐 Developed **Campus Event & Navigation Systems** for Chitkara University  
 - 🧩 Continuously improving **DSA** and **System Design Concepts**
 
 ---
