@@ -48,28 +48,6 @@
 
 ---
 
-### 🚀 Project Showcase  
-
-<p align="center">
-  <a href="https://github.com/Harshit-nijhawan/Lost-and-Found-Web3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit-nijhawan&repo=Lost-and-Found-Web3&theme=tokyonight&border_radius=10" />
-  </a>
-  <a href="https://github.com/Harshit-nijhawan/Campus-Navigation-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit-nijhawan&repo=Campus-Navigation-System&theme=tokyonight&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Harshit-nijhawan/Campus-Event-Notifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit-nijhawan&repo=Campus-Event-Notifier&theme=tokyonight&border_radius=10" />
-  </a>
-  <a href="https://github.com/Harshit-nijhawan/Voice-Controlled-AI-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit-nijhawan&repo=Voice-Controlled-AI-Assistant&theme=tokyonight&border_radius=10" />
-  </a>
-</p>
-
----
-
 ### 🏆 Achievements
 - 🥇 **FusionFest Hackathon 2025 (Web3 Track)** Participant  
 - 💎 Built **Blockchain-based Lost & Found System** using Telos & MetaMask  
