@@ -8,7 +8,7 @@
 <h3 align="center">🚀 Welcome to my digital space — where innovation meets code 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%7C+Blockchain+Engineer;IoT+Innovator+%7C+Full+Stack+Learner;Building+Smart+and+Scalable+Projects+💡" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;IoT+Innovator+%7C+Full+Stack+Learner;Building+Smart+and+Scalable+Projects+💡" alt="Typing Animation" />
 </p>
 
 ---
