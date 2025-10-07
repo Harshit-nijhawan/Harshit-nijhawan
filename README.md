@@ -103,5 +103,5 @@
 
 <p align="center">
   <b>✨ “Code. Create. Innovate. Inspire.” ✨</b><br><br>
-  Made with ❤️ by <a href="https://github.com/Harshit-nijhawan">Harshit Nijhawan</a>
+  Made by <a href="https://github.com/Harshit-nijhawan">Harshit Nijhawan</a>
 </p>
