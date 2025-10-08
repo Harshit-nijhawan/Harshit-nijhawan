@@ -90,7 +90,7 @@
 
 ### 🌐 <span style="color:#00E7FF; text-shadow:0 0 12px #00E7FF;">Connect With Me</span>
 <p align="center">
-  <a href="https://linkedin.com/in/harshit-nijhawan-2b941132" target="_blank">
+  <a href="https://www.linkedin.com/in/harshit-nijhawan-2b9411332/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00C3FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nijhawanharshit58@gmail.com">
