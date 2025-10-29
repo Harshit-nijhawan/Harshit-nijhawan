@@ -41,23 +41,17 @@
 
 #### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
 #### 🌐 Web Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,bootstrap,tailwind" />
-</p>
-
-#### 🪙 Blockchain & IoT  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum" /><br>
-  <b>Platforms:</b> MetaMask | Telos | Arduino | ESP32
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
 </p>
 
 #### 🧰 Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,intelliJ,postman,figma,linux" />
 </p>
 
 ---
@@ -65,7 +59,7 @@
 ### 🏆 <span style="color:#00E7FF; text-shadow:0 0 12px #00E7FF;">Achievements</span>
 - 🥇 **FusionFest Hackathon 2025 (Web3 Track)** Participant  
 - 💎 Built a **Blockchain-based Lost & Found System** using Telos & MetaMask  
-- 🧩 Constantly mastering **DSA**, **Web Concepts** and **System Design Concepts**
+- 🧩 Constantly mastering **DSA**, **Web Concepts** and **Cloud & System Design Concepts**
 
 ---
 
