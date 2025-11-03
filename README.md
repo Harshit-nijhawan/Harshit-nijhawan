@@ -32,7 +32,7 @@
 > 🎓 **Student @ Chitkara University**  
 > 💡 Passionate about **building scalable, elegant web applications**  
 > 🌱 Exploring **Full Stack Development, Cloud & DSA**  
-> 💬 Ask me about **React, Node.js, Express.js, MongoDB**  
+> 💬 Ask me about **Java,React, Node.js, Express.js, MongoDB**  
 > ⚡ *“I believe great ideas deserve great code.”*
 
 ---
