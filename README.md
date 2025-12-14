@@ -18,8 +18,8 @@
     <a href="mailto:nijhawanharshit58@gmail.com">
       <img height="35" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Harshit Email"/>
     </a>  
-    <a href="https://github.com/Harshit-nijhawan" target="_blank">
-      <img height="35" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Harshit GitHub"/>
+    <a href="https://harshitnijhawan.me/" target="_blank">
+      <img height="35" src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Harshit Portfolio"/>
     </a>
   </p>
 </div>
