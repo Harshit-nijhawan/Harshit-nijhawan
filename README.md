@@ -106,12 +106,11 @@ I am a <strong>Full Stack Engineer</strong> driven by complex problem-solving. I
 </h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" style="display:none" /> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/561aa473-3905-4a80-b561-0d28506553ee" width="250" height="50" alt="Audio Waveform" />
-  <br>
-  
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wqrS" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Play_Chill_LoFi_Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play Spotify" />
-  </a>
+  <p><em>Click play below for coding vibes</em></p>
+  <video src="https://github.com/user-attachments/assets/9e8849f0-43ee-4618-b5a2-7fefea72d71d" 
+         controls="controls" 
+         style="max-width: 100%; width: 600px; border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 201, 255, 0.2);">
+  </video>
 </div>
 
 <br/>
@@ -137,7 +136,7 @@ I am a <strong>Full Stack Engineer</strong> driven by complex problem-solving. I
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Harshit-nijhawan/Harshit-nijhawan/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Harshit-nijhawan/Harshit-nijhawan/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
