@@ -106,7 +106,13 @@ I am a <strong>Full Stack Engineer</strong> driven by complex problem-solving. I
 </h2>
 
 <div align="center">
-  <p><em>Click play below for coding vibes</em></p>
+  <p><em>this is the refreshing audio</em></p>
+  
+  <a href="https://github.com/user-attachments/assets/9e8849f0-43ee-4618-b5a2-7fefea72d71d">
+    <img src="https://img.shields.io/badge/▶_Play_Audio-FF0000?style=for-the-badge&logoColor=white" alt="Play Audio Button">
+  </a>
+  <br><br>
+  
   <video src="https://github.com/user-attachments/assets/9e8849f0-43ee-4618-b5a2-7fefea72d71d" 
          controls="controls" 
          style="max-width: 100%; width: 600px; border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 201, 255, 0.2);">
