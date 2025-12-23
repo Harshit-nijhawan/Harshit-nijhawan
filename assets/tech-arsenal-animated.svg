@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <style>
+    .icon {
+      animation: float 4s ease-in-out infinite;
+    }
+
+    .icon:nth-child(2) { animation-delay: 0.2s; }
+    .icon:nth-child(3) { animation-delay: 0.4s; }
+    .icon:nth-child(4) { animation-delay: 0.6s; }
+    .icon:nth-child(5) { animation-delay: 0.8s; }
+
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-6px); }
+      100% { transform: translateY(0px); }
+    }
+  </style>
+
+  <rect x="0" y="0" width="1200" height="320" rx="20" fill="#0D1117"/>
+
+  <!-- Row 1 -->
+  <g class="icon" transform="translate(80,60)">
+    <image href="https://skillicons.dev/icons?i=react" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(180,60)">
+    <image href="https://skillicons.dev/icons?i=python" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(280,60)">
+    <image href="https://skillicons.dev/icons?i=javascript" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(380,60)">
+    <image href="https://skillicons.dev/icons?i=typescript" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(480,60)">
+    <image href="https://skillicons.dev/icons?i=nodejs" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(580,60)">
+    <image href="https://skillicons.dev/icons?i=express" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(680,60)">
+    <image href="https://skillicons.dev/icons?i=java" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(780,60)">
+    <image href="https://skillicons.dev/icons?i=cpp" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(880,60)">
+    <image href="https://skillicons.dev/icons?i=c" width="64" height="64"/>
+  </g>
+
+  <!-- Row 2 -->
+  <g class="icon" transform="translate(80,160)">
+    <image href="https://skillicons.dev/icons?i=mongodb" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(180,160)">
+    <image href="https://skillicons.dev/icons?i=mysql" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(280,160)">
+    <image href="https://skillicons.dev/icons?i=postgres" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(380,160)">
+    <image href="https://skillicons.dev/icons?i=git" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(480,160)">
+    <image href="https://skillicons.dev/icons?i=github" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(580,160)">
+    <image href="https://skillicons.dev/icons?i=docker" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(680,160)">
+    <image href="https://skillicons.dev/icons?i=linux" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(780,160)">
+    <image href="https://skillicons.dev/icons?i=aws" width="64" height="64"/>
+  </g>
+  <g class="icon" transform="translate(880,160)">
+    <image href="https://skillicons.dev/icons?i=solidity" width="64" height="64"/>
+  </g>
+</svg>
