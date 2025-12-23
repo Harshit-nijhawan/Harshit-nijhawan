@@ -101,7 +101,7 @@ I am a <strong>Full Stack Engineer</strong> driven by complex problem-solving. I
 
 <br/>
 
-<h2 align="center">
+<!-- <h2 align="center">
   🎧 Neural Frequency
 </h2>
 
@@ -117,7 +117,7 @@ I am a <strong>Full Stack Engineer</strong> driven by complex problem-solving. I
          controls="controls" 
          style="max-width: 100%; width: 600px; border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 201, 255, 0.2);">
   </video>
-</div>
+</div> -->
 
 <br/>
 
