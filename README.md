@@ -38,7 +38,7 @@
 
 <p align="center">
   I am a <strong>Full Stack Engineer</strong> focused on scalable backend systems,
-  strong DSA fundamentals, and Web3 architecture.
+  strong DSA fundamentals, and Web architecture.
 </p>
 
 <br />
@@ -56,7 +56,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/9367/9367568.png" width="40" alt="Stack"/><br />
         <strong>Stack</strong><br />
         MERN<br />
-        Java, Solidity
+        Java
       </td>
       <td align="center" width="30%">
         <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="40" alt="Location"/><br />
